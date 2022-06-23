@@ -1,2 +1,2 @@
 # Python-Assignment
-Ineuron Python Assignments to practise
+Ineuron Python Assignments to practice
